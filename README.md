@@ -1,16 +1,23 @@
-### Hi there 👋
+#                     I’m Habil Cangir
+---------------------------------------------------------
+##         I am an iOS Developer student from Turkey
+- 💻 I'm studying at Dokuz Eylül University Computer Engineering Department.
+- 🌱 I’m currently learning **Swift**
+- 📫 How to reach me: **habilcangir@gmail.com**
 
-<!--
-**cangirhabil/cangirhabil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+## Connect with me:
+* [LinkedIn](https://www.linkedin.com/in/habil-cangir/)    
+* [Twitter](https://twitter.com/HabilCangir)          
+* [Medium](https://medium.com/@habilcangir)       
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Languages and Tools:
+
+- **Swift**
+- **Java**
+- **C#**
+- **Python**
+- **Git**
+ ...
 -->
