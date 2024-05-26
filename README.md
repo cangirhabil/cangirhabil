@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm studying at Dokuz Eylül University Computer Engineering Department.<br>🌱 I’m currently learning Swift and SwiftUI<br>📫 How to reach me: habilcangir@gmail.com<br>
+💻 I'm studying at Dokuz Eylül University Computer Engineering Department.<br>🌱 I’m currently learning Swift and SwiftUI/UIKit<br>📫 How to reach me: habilcangir@gmail.com<br>
 
 
 ## 🌐 Socials:
