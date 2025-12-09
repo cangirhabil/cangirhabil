@@ -5,7 +5,7 @@
   
   <!-- Animated Subtitle - Orange theme -->
   <p>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Startup+Founder" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&random=false&width=435&lines=Full-Stack+AI+Developer;Machine+Learning;Lifelong+Learner;+Entrepreneur" alt="Typing SVG" /></a>
   </p>
   
   <!-- Social Media Badges - Orange theme -->
@@ -26,15 +26,7 @@
   <h2 align="center"><span style="color: #FF8C00"></span> About Me</h2>
   <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-  ### I'm a Computer Science Student & Developer
-  
-  - 🎓 Studying at <span style="color: #FF8C00">**Dokuz Eylul University**</span>
-  - 👨‍💻 Working on <span style="color: #FF8C00">[**Turuncu.Studio**](https://github.com/cangirhabil/turuncu-studio)</span>
-  - 🔍 Currently interning at <span style="color: #FF8C00">**DEUZEM**</span>
-  - 🌱 Learning <span style="color: #FF8C00">**Next.js**</span> & <span style="color: #FF8C00">**Mobile Development**</span>
-  - 👯 Open to collaborate on <span style="color: #FF8C00">**web and mobile development projects**</span>
-  - 💡 Passionate about <span style="color: #FF8C00">**building startups**</span> & <span style="color: #FF8C00">**entrepreneurial experiences**</span>
-  - 🥅 Looking to grow my development skills and portfolio
+  ### I'm a Full Stack AI Developer
   
 </div>
  
