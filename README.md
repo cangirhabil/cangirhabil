@@ -27,13 +27,29 @@
 <div align="center">
   <h2><span style="color: #FF8C00">💻</span> Tech Stack</h2>
   
-  <h3 style="color: #FF8C00">AI & Data Science</h3>
+  <h3 style="color: #FF8C00">Generative AI & LLM Engineering</h3>
   <p>
     <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
-    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini">
+    <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=FF8C00" alt="LangGraph">
+    <img src="https://img.shields.io/badge/LlamaIndex-121212?style=for-the-badge&logo=llamaindex&logoColor=white" alt="LlamaIndex">
+    <img src="https://img.shields.io/badge/CrewAI-EB4C42?style=for-the-badge&logo=target&logoColor=white" alt="CrewAI">
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama">
+  </p>
+
+  <h3 style="color: #FF8C00">Vector Databases & Cloud AI</h3>
+  <p>
     <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone">
     <img src="https://img.shields.io/badge/ChromaDB-FF8C00?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB">
+    <img src="https://img.shields.io/badge/Qdrant-B31F52?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant">
+    <img src="https://img.shields.io/badge/Weaviate-00332A?style=for-the-badge&logo=weaviate&logoColor=white" alt="Weaviate">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" alt="Gemini">
+  </p>
+
+  <h3 style="color: #FF8C00">Data Science & Core ML</h3>
+  <p>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
     <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy">
     <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision">
@@ -85,8 +101,7 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
   </p>
-</div>
-<h2 align="center"><span style="color: #FF8C00"></span> My GitHub Journey</h2>
+</div><h2 align="center"><span style="color: #FF8C00"></span> My GitHub Journey</h2>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="80%" alt="GitHub Contribution Snake Animation" />
